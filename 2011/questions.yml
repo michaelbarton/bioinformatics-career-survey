@@ -1,0 +1,201 @@
+- About you:
+
+  - Did you participate in the 2008 career survey?
+    - Yes
+    - No
+
+  - Which region of the world is your nationality?
+    - Africa, North
+    - Africa, Eastern
+    - Africa, Middle
+    - Africa, Northern
+    - Africa, Southern
+    - Africa, Western
+    - America, Northern
+    - America, Central
+    - America, Caribbean
+    - America, South
+    - Asia, Southern
+    - Asia, Southern-Eastern
+    - Asia, Western
+    - Europe, Eastern
+    - Europe, Northern
+    - Europe, Southern
+    - Europe, Western
+    - Oceania, Australia and New Zealand
+    - Oceania, Melanesia
+    - Oceania, Micronesia
+    - Oceania, Polynesia
+
+  - Which region of the world do you currently work in? 
+    - Africa, North
+    - Africa, Eastern
+    - Africa, Middle
+    - Africa, Northern
+    - Africa, Southern
+    - Africa, Western
+    - America, Northern
+    - America, Central
+    - America, Caribbean
+    - America, South
+    - Asia, Southern
+    - Asia, Southern-Eastern
+    - Asia, Western
+    - Europe, Eastern
+    - Europe, Northern
+    - Europe, Southern
+    - Europe, Western
+    - Oceania, Australia and New Zealand
+    - Oceania, Melanesia
+    - Oceania, Micronesia
+    - Oceania, Polynesia
+
+  - Which region of the world do you like to work in? 
+    - Africa, North
+    - Africa, Eastern
+    - Africa, Middle
+    - Africa, Northern
+    - Africa, Southern
+    - Africa, Western
+    - America, Northern
+    - America, Central
+    - America, Caribbean
+    - America, South
+    - Asia, Southern
+    - Asia, Southern-Eastern
+    - Asia, Western
+    - Europe, Eastern
+    - Europe, Northern
+    - Europe, Southern
+    - Europe, Western
+    - Oceania, Australia and New Zealand
+    - Oceania, Melanesia
+    - Oceania, Micronesia
+    - Oceania, Polynesia
+
+  - How many years of is the total of your under-graduate and graduate
+    education?
+
+  - What field did you do the majority of your undergraduate degree in?
+    - Biology
+    - Computing Science
+    - Mathematics
+    - Statistics
+    - NOTE: Needs more here
+
+  - To which level do you complete your education?
+    - School
+    - Undergraduate
+    - Masters
+    - PhD
+
+Grants and Publications:
+  - How many papers have you been an author on?
+  - How many papers have you been either first or last author?
+  - How important is open access to you?
+    - 1..10
+  - How many grants have you written?
+  - How many grants have you written and received?
+  - What is the largest grant you have written and recieved (US Dollars)?
+    - < $1000
+    - < $10,000
+    - < $100,000
+    - < $1,000,000
+    - > $1,000,000
+
+Your Job:
+  - What is your current position?
+     - Under-graduate
+     - Masters Student
+     - PhD Student
+     - Research Technician
+     - Post Doctoral Fellow
+     - Associate Professor/Lecturer
+     - Assistant Professor/Reader
+     - Professor
+
+  - How much do you enjoy your current job:
+    - 1..10
+
+  - How much do you have you enjoyed you career in bioinformatics?
+    - 1..10
+
+  - How many more years do you see yourself in your current position?
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10+
+
+  - How many more years do you see working in your current career?
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10+
+
+  - How many years have you been working since finishing education?
+
+  - How many times a year do you attend external non-training workshops and
+    conferences?
+
+  - How many times a year do you attend external training workshops and
+    conferences?
+
+  - Which sector do you work in?
+    - Academia
+    - Industry
+    - Government
+    - Freelance
+
+  - What field of bioinformatics do you work in/research?
+    - Needs a set of reasonably sized catergories here. 
+
+  - Are you expected to regularly perform IT tasks? (e.g. Fix printer problems,
+    problems with computers other than your own.)
+
+Your setup:
+
+  - What is total surface area of your monitor(s) screen?
+
+  - How many Ghz does your computer run at?
+
+  - How much RAM does your computer have?
+
+  - Which operating system do you use?
+    - Windows
+    - OSX
+    - Linux
+    - Other
+
+  - Which programming languages do you know? For instance: You write the basic
+    smith-watermann alignment algorthm?
+
+  - What programming languages do you use daily?
+    - NOTE: enumerated list goes here
+
+  - What programming languages would you like to learn?
+    - NOTE: enumerated list goes here
+
+  - Which editor do you mainly use for writing code?
+
+  - Which version control system do you use?
+    - none
+    - svn
+    - git
+    - mercurial
+    - bazaar
+
+  - Dotfiles: paste the output of `ls -al ~/` into this box
+
+  - How important is open-sourcing your software?
