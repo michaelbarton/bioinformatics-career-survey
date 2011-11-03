@@ -1,10 +1,25 @@
 - About you:
 
+  - (optional) Your gender?
+    - XX
+    - XY
+    - Prefer not to say
+
+  - (optional) Your mail ?
+  
+  - (optional) Your twitter id ?
+
+  - (optional) Your blog URL ?
+  
+  - (optional) Your laboratory URL ?   
+  
   - Did you participate in the 2008 career survey?
     - Yes
     - No
+    - I don't remember
 
-  - Which region of the world is your nationality?
+  - (optional) Which region of the world is your nationality?
+    - Prefer not to say
     - Africa, North
     - Africa, Eastern
     - Africa, Middle
@@ -26,6 +41,11 @@
     - Oceania, Melanesia
     - Oceania, Micronesia
     - Oceania, Polynesia
+
+  - (Optional) Can you please copy and paste the google-map URL to your laboratory ?
+  
+  -
+
 
   - Which region of the world do you currently work in? 
     - Africa, North
@@ -90,8 +110,11 @@
     - PhD
 
 Grants and Publications:
+
   - How many papers have you been an author on?
+
   - How many papers have you been either first or last author?
+
   - How important is open access to you?
     - 1..10
   - How many grants have you written?
@@ -159,7 +182,58 @@ Your Job:
     - Freelance
 
   - What field of bioinformatics do you work in/research?
-    - Needs a set of reasonably sized catergories here. 
+	- Acarology
+	- Anatomy / Morphology
+	- Arachnology
+	- Astrobiology
+	- Biochemistry
+	- Bioinformatics
+	- Biophysics
+	- Botany
+	- Bryology
+	- Cell biology / Cytology
+	- Cetology
+	- Cladistics
+	- Conservation Biology
+	- Developmental biology
+	- Ecology
+	- Embryology
+	- Entomology
+	- Epidemiology
+	- Ethology
+	- Evolutionary developmental biology
+	- Evolution/Evolutionary biology
+	- Genetics
+	- Genomics
+	- Gerontology
+	- Helminthology
+	- Herpetology
+	- Histology
+	- HistoSystematics
+	- Ichthyology
+	- Immunology
+	- Kinesiology
+	- Lichenology
+	- Malacology
+	- Mammology
+	- Microbiology/Bacteriology
+	- Molecular Biology
+	- Mycology
+	- Myrmecology
+	- Nematology
+	- Neuroscience
+	- Ornithology
+	- Palynology
+	- Phycology 
+	- Phylogeny
+	- Physical anthropology
+	- Physiology
+	- Population genetics
+	- Proteomics
+	- Structural biology
+	- Taxonomy
+	- Virology
+
 
   - Are you expected to regularly perform IT tasks? (e.g. Fix printer problems,
     problems with computers other than your own.)
@@ -179,11 +253,140 @@ Your setup:
     - Other
 
   - Which programming languages do you know? For instance: You write the basic
-    smith-watermann alignment algorthm?
+    smith-watermann alignment algorithm?
 
   - What programming languages do you use daily?
-    - NOTE: enumerated list goes here
+	  - ActionScript
+	  - C
+	  - C#
+	  - C++
+	  - Common Lisp
+	  - CSS
+	  - Diff
+	  - Emacs Lisp
+	  - Erlang
+	  - Haskell
+	  - HTML
+	  - Java
+	  - JavaScript
+	  - Lua
+	  - Objective-C
+	  - Perl
+	  - PHP
+	  - Python
+	  - Ruby
+	  - Scala
+	  - Scheme
+	  - TeX
+	  - XML
+	  - Ada
+	  - AppleScript
+	  - Arc
+	  - ASP
+	  - Assembly
+	  - AutoHotkey
+	  - Batchfile
+	  - Befunge
+	  - BlitzMax
+	  - Boo
+	  - Brainfuck
+	  - C-ObjDump
+	  - ChucK
+	  - Clojure
+	  - CMake
+	  - CoffeeScript
+	  - ColdFusion
+	  - Cpp-ObjDump
+	  - Cucumber
+	  - Cython
+	  - D
+	  - D-ObjDump
+	  - Darcs Patch
+	  - Delphi
+	  - Dylan
+	  - Eiffel
+	  - F#
+	  - Factor
+	  - Fancy
+	  - FORTRAN
+	  - GAS
+	  - Genshi
+	  - Gentoo Ebuild
+	  - Gentoo Eclass
+	  - Go
+	  - Gosu
+	  - Groff
+	  - Groovy
+	  - Groovy Server Pages
+	  - Haml
+	  - HaXe
+	  - HTML+Django
+	  - HTML+ERB
+	  - HTML+PHP
+	  - INI
+	  - Io
+	  - Ioke
+	  - IRC log
+	  - Java Server Pages
+	  - LilyPond
+	  - Literate Haskell
+	  - LLVM
+	  - Makefile
+	  - Mako
+	  - Markdown
+	  - Matlab
+	  - Max/MSP
+	  - Mirah
+	  - Moocode
+	  - mupad
+	  - Myghty
+	  - Nemerle
+	  - Nimrod
+	  - Nu
+	  - NumPy
+	  - ObjDump
+	  - Objective-J
+	  - OCaml
+	  - ooc
+	  - OpenCL
+	  - Parrot
+	  - Parrot Assembly
+	  - Parrot Internal Representation
+	  - Prolog
+	  - Pure Data
+	  - R
+	  - Racket
+	  - Raw token data
+	  - Rebol
+	  - Redcode
+	  - reStructuredText
+	  - RHTML
+	  - Rust
+	  - Sass
+	  - SCSS
+	  - Self
+	  - Shell
+	  - Smalltalk
+	  - Smarty
+	  - Standard ML
+	  - SuperCollider
+	  - Tcl
+	  - Tcsh
+	  - Text
+	  - Textile
+	  - Twig
+	  - Vala
+	  - Verilog
+	  - VHDL
+	  - VimL
+	  - Visual Basic
+	  - XQuery
+	  - XS
+	  - YAML
 
+  - What programming languages do you master ?
+    - NOTE: enumerated list goes here
+    
   - What programming languages would you like to learn?
     - NOTE: enumerated list goes here
 
@@ -199,3 +402,48 @@ Your setup:
   - Dotfiles: paste the output of `ls -al ~/` into this box
 
   - How important is open-sourcing your software?
+  
+  - do you use the following web sites (should be never/often/i don't know)
+     - stackoverflow.com
+     - biostar
+     - seqanswers.com
+     - other...
+     
+  - have you ever edited an article in wikipedia in your field of interest ?
+  
+  - (todo)Employment status
+  - (todo)Relevance of your bioinformatics job role to your studies
+  - (todo)How many months after finishing higher education did it take you to find a job in bioinformatics
+  - (todo) How do you perform your day-to-day computing: 
+    	- Cluster / HPC maintained by lab
+    	- Cluster / HPC maintained by University/Institute/Company
+        - Cloud (Amazon / Private / SDSC etc.)
+  
+  - (todo)Where do you work 
+      - Industry
+      - Bioinformatics research lab
+      - Bioinformatics core in a University/Research institute
+      - Biology/Clinical lab
+  - (todo) Does your group make use of any of the following technologies to support software development:
+      - version control
+      - issue tracking
+      - wikis & google doc
+      - software mgment system
+  - (todo) Is there a project manager in your group, apart from the group leader?
+  - (todo) How frequently do you meet with your group leader each week, to plan what to program and what to implement?
+  - (todo) And how frequently do you meet with your group leader each week, to discuss how to implement what is planned?
+  - (todo) From which background does your group leader comes from? Is he a biologist or a computer scientist?
+  - (todo) Is your group leader able to help you on programming problems in case you need?
+  - (todo) Do you have systematic Code Reviews in your group? Is there anyone in charge of reviewing the code before submitting a paper?
+  - (todo) Are you the only person in charge of your code, or is the code ownership shared among the members of the lab? How frequently do you use code written by your labmates?
+  - (todo) Do you adopt any agile programming technique in your group?
+  - (todo) Do you make use of open source libraries, such as BioPython, BioPerl, BioConductor, etc?
+  - (todo) Where do you look for help about technical/programming issues? (e.g. Biostar...)
+  - (todo) Do you have a blog, where you discuss about your research?
+  - (todo) Do you use twitter/facebook/google+/etc.. for your research?
+  - (todo) Level of freedom with IT resource (1-5).
+  - (todo) Journals: Which do you read?
+  - (todo) Have you in the last X years served as reviewer, editor, etc of any journal?
+  - (todo) Do you belong to any professional society?
+  - (todo) How many times a year are you permitted to attend conferences?
+  - (todo) How many times per year do you receive external training in topics relevant to your role?
