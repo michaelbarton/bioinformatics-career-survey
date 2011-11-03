@@ -1,25 +1,23 @@
 - About you:
 
-  - (optional) Your gender?
+  - Your gender?
     - XX
     - XY
-    - Prefer not to say
 
-  - (optional) Your mail ?
+  - Your mail ?
   
-  - (optional) Your twitter id ?
+  - Your twitter id ?
 
-  - (optional) Your blog URL ?
+  - Your blog URL ?
   
-  - (optional) Your laboratory URL ?   
+  - Your laboratory URL ?   
   
   - Did you participate in the 2008 career survey?
     - Yes
     - No
     - I don't remember
 
-  - (optional) Which region of the world is your nationality?
-    - Prefer not to say
+  -  Which region of the world is your nationality?
     - Africa, North
     - Africa, Eastern
     - Africa, Middle
@@ -42,11 +40,8 @@
     - Oceania, Micronesia
     - Oceania, Polynesia
 
-  - (Optional) Can you please copy and paste the google-map URL to your laboratory ?
+  - Can you please copy and paste the google-map URL to your laboratory ?
   
-  -
-
-
   - Which region of the world do you currently work in? 
     - Africa, North
     - Africa, Eastern
@@ -98,12 +93,14 @@
 
   - What field did you do the majority of your undergraduate degree in?
     - Biology
-    - Computing Science
+    - Physics
+    - Chemistry
     - Mathematics
     - Statistics
-    - NOTE: Needs more here
+    - Computing Science
+    - Liberal Arts
 
-  - To which level do you complete your education?
+  - What is your level of education?
     - School
     - Undergraduate
     - Masters
@@ -138,10 +135,28 @@ Your Job:
      - Professor
 
   - How much do you enjoy your current job:
-    - 1..10
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10
 
-  - How much do you have you enjoyed you career in bioinformatics?
-    - 1..10
+  - How much do you have you enjoyed you career in bioinformatics so far?
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10
 
   - How many more years do you see yourself in your current position?
     - 1
@@ -168,6 +183,16 @@ Your Job:
     - 10+
 
   - How many years have you been working since finishing education?
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10+
 
   - How many times a year do you attend external non-training workshops and
     conferences?
@@ -252,21 +277,16 @@ Your setup:
     - Linux
     - Other
 
-  - Which programming languages do you know? For instance: You write the basic
-    smith-watermann alignment algorithm?
+  - Which programming languages do you know? For instance: You could write the basic smith-watermann alignment algorithm?
 
   - What programming languages do you use daily?
 	  - ActionScript
 	  - C
 	  - C#
 	  - C++
-	  - Common Lisp
-	  - CSS
-	  - Diff
-	  - Emacs Lisp
+	  - Lisp
 	  - Erlang
 	  - Haskell
-	  - HTML
 	  - Java
 	  - JavaScript
 	  - Lua
@@ -277,31 +297,14 @@ Your setup:
 	  - Ruby
 	  - Scala
 	  - Scheme
-	  - TeX
-	  - XML
 	  - Ada
-	  - AppleScript
 	  - Arc
 	  - ASP
 	  - Assembly
-	  - AutoHotkey
-	  - Batchfile
-	  - Befunge
-	  - BlitzMax
-	  - Boo
-	  - Brainfuck
-	  - C-ObjDump
-	  - ChucK
 	  - Clojure
-	  - CMake
 	  - CoffeeScript
 	  - ColdFusion
-	  - Cpp-ObjDump
-	  - Cucumber
-	  - Cython
 	  - D
-	  - D-ObjDump
-	  - Darcs Patch
 	  - Delphi
 	  - Dylan
 	  - Eiffel
@@ -309,84 +312,30 @@ Your setup:
 	  - Factor
 	  - Fancy
 	  - FORTRAN
-	  - GAS
-	  - Genshi
-	  - Gentoo Ebuild
-	  - Gentoo Eclass
 	  - Go
 	  - Gosu
 	  - Groff
 	  - Groovy
-	  - Groovy Server Pages
-	  - Haml
-	  - HaXe
-	  - HTML+Django
-	  - HTML+ERB
-	  - HTML+PHP
-	  - INI
 	  - Io
 	  - Ioke
-	  - IRC log
-	  - Java Server Pages
-	  - LilyPond
-	  - Literate Haskell
-	  - LLVM
-	  - Makefile
-	  - Mako
-	  - Markdown
 	  - Matlab
-	  - Max/MSP
 	  - Mirah
-	  - Moocode
-	  - mupad
-	  - Myghty
 	  - Nemerle
 	  - Nimrod
 	  - Nu
-	  - NumPy
-	  - ObjDump
 	  - Objective-J
 	  - OCaml
-	  - ooc
-	  - OpenCL
-	  - Parrot
-	  - Parrot Assembly
-	  - Parrot Internal Representation
 	  - Prolog
-	  - Pure Data
 	  - R
 	  - Racket
-	  - Raw token data
-	  - Rebol
-	  - Redcode
-	  - reStructuredText
-	  - RHTML
-	  - Rust
-	  - Sass
-	  - SCSS
 	  - Self
-	  - Shell
 	  - Smalltalk
 	  - Smarty
 	  - Standard ML
-	  - SuperCollider
 	  - Tcl
-	  - Tcsh
-	  - Text
-	  - Textile
-	  - Twig
-	  - Vala
-	  - Verilog
-	  - VHDL
 	  - VimL
 	  - Visual Basic
-	  - XQuery
-	  - XS
-	  - YAML
 
-  - What programming languages do you master ?
-    - NOTE: enumerated list goes here
-    
   - What programming languages would you like to learn?
     - NOTE: enumerated list goes here
 
@@ -443,7 +392,7 @@ Your setup:
   - (todo) Do you use twitter/facebook/google+/etc.. for your research?
   - (todo) Level of freedom with IT resource (1-5).
   - (todo) Journals: Which do you read?
-  - (todo) Have you in the last X years served as reviewer, editor, etc of any journal?
+  - (todo) Have you in the last X years served as reviewer, editor, etc of any jornal?
   - (todo) Do you belong to any professional society?
   - (todo) How many times a year are you permitted to attend conferences?
   - (todo) How many times per year do you receive external training in topics relevant to your role?
