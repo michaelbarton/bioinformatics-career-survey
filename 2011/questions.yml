@@ -119,6 +119,9 @@ Grants and Publications:
   - How important is open access to you?
     - 1..10
 
+  - How important is open-sourcing your software?
+    - 1..10
+  
   - How many grants have you written?
 
   - How many grants have you written and received?
@@ -324,9 +327,6 @@ Your setup:
 
   - Dotfiles: paste the output of `ls -al ~/` into this box
 
-  - How important is open-sourcing your software?
-    - 1..10
-  
   - do you use the following web sites (should be never/often/i don't know)
      - stackoverflow.com
      - biostar
