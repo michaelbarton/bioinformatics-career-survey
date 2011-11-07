@@ -337,17 +337,11 @@ Your setup:
   
   - (todo)Employment status
   - (todo)Relevance of your bioinformatics job role to your studies
-  - (todo)How many months after finishing higher education did it take you to find a job in bioinformatics
   - (todo) How do you perform your day-to-day computing: 
     	- Cluster / HPC maintained by lab
     	- Cluster / HPC maintained by University/Institute/Company
         - Cloud (Amazon / Private / SDSC etc.)
   
-  - (todo)Where do you work 
-      - Industry
-      - Bioinformatics research lab
-      - Bioinformatics core in a University/Research institute
-      - Biology/Clinical lab
   - (todo) Does your group make use of any of the following technologies to support software development:
       - version control
       - issue tracking
