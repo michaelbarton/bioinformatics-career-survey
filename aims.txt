@@ -1,0 +1,36 @@
+Topics: What are the career prospects of a bioinformatics career?
+
+Specific data points:
+  - How does annual salary vary at different career levels?
+  - How does annual salary vary with location?
+  - How does annual salary vary with work institution?
+  - How does annual salary vary with years of experience?
+  - How does annual salary vary with level of education?
+  - Which areas of the world are bioinformaticians working in?
+  - How is years of experience tied to salary and progression?
+  - How does number of bioinformaticians decrease with career level?
+
+
+Topic: How important are publications, grants and teaching load?
+
+Data points:
+  - How does annual salary vary with number of publication?
+  - How does annual salary vary with number of grants?
+  - How does annual salary vary with weekly teaching load?
+  - How does weekly teaching load vary with number of publications?
+  - How does weekly teaching load vary with number of grants?
+  - How does career progression vary with number of publications?
+  - How does career progression vary with number of grants?
+  - How does career progression vary with weekly teaching load?
+
+
+Topic: How satisfying is a career in bioinformatics?
+
+Data points:
+  - How does satisfaction vary at different career levels?
+  - How does satisfaction vary with location?
+  - How does satisfaction vary with work institution?
+  - How does satisfaction vary with number of publication?
+  - How does satisfaction vary with number of grants?
+  - How does satisfaction vary with size of grants?
+  - How does satisfaction vary with weekly teaching load?
