@@ -1,4 +1,4 @@
-Topics: What are the career prospects of a bioinformatics career?
+Topic: What are the career prospects of a bioinformatics career?
 
 Specific data points:
   - How does annual salary vary at different career levels?
@@ -14,6 +14,7 @@ Specific data points:
   - How does number of bioinformaticians decrease with career level?
   - How does career progression vary with educational background?
   - How many conferences and workshops can you expect to attend a year?
+
 
 
 Topic: How important are publications, grants and teaching load?
@@ -37,6 +38,7 @@ Data points:
   - How does number of children affect grant output?
 
 
+
 Topic: How satisfying is a career in bioinformatics?
 
 Data points:
@@ -52,6 +54,8 @@ Data points:
   - How does satisfaction vary with having children?
   - How has satisfaction changed in the last three years?
   - How long to people consider themselves staying in bioinformatics?
+
+
 
 Topic: Which are the popular tools and practises in bioinformatics?
 
@@ -84,6 +88,7 @@ Data points:
     - mendeley
     - stackoverflow
     - cross validated
+
 
 
 Topic: What is the distribution of research areas in bioinformatics?
