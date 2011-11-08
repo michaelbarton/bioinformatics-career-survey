@@ -3,12 +3,17 @@ Topics: What are the career prospects of a bioinformatics career?
 Specific data points:
   - How does annual salary vary at different career levels?
   - How does annual salary vary with location?
+  - How does annual salary vary with gender?
+  - How does annual salary vary with number of children?
   - How does annual salary vary with work institution?
   - How does annual salary vary with years of experience?
   - How does annual salary vary with level of education?
+  - How does annual salary vary with educational background?
   - Which areas of the world are bioinformaticians working in?
   - How is years of experience tied to salary and progression?
   - How does number of bioinformaticians decrease with career level?
+  - How does career progression vary with educational background?
+  - How many conferences and workshops can you expect to attend a year?
 
 
 Topic: How important are publications, grants and teaching load?
@@ -18,10 +23,18 @@ Data points:
   - How does annual salary vary with number of grants?
   - How does annual salary vary with weekly teaching load?
   - How does weekly teaching load vary with number of publications?
+  - How does weekly teaching load vary with h index?
   - How does weekly teaching load vary with number of grants?
   - How does career progression vary with number of publications?
-  - How does career progression vary with number of grants?
+  - How does career progression vary with h-index?
+  - How does career progression vary with number and size of grants?
   - How does career progression vary with weekly teaching load?
+  - How does number of publications vary with educational background?
+  - How does number of grants vary with educational background?
+  - How does gender affect number of publications?
+  - How does gender affect number and size of grants?
+  - How does number of children affect publication output?
+  - How does number of children affect grant output?
 
 
 Topic: How satisfying is a career in bioinformatics?
@@ -34,3 +47,54 @@ Data points:
   - How does satisfaction vary with number of grants?
   - How does satisfaction vary with size of grants?
   - How does satisfaction vary with weekly teaching load?
+  - How does satisfaction vary with location?
+  - How does satisfaction vary with gender?
+  - How does satisfaction vary with having children?
+  - How has satisfaction changed in the last three years?
+  - How long to people consider themselves staying in bioinformatics?
+
+Topic: Which are the popular tools and practises in bioinformatics?
+
+Data points:
+  - Which is the most common programming language in bioinformatics?
+  - How has programming language usage changed in the last three years?
+  - How does programming language usage vary with length of career?
+  - Which programming languages do publishing authors use?
+  - What is the distribtion of computer setups in bioinformatics?
+  - Which of the following software development practices are being used?
+    - source code control
+    - test driven development
+    - continuous integration
+    - cloud computing
+    - command line
+    - shared wikis
+    - issue tracking
+    - code reviews
+    - releasing code as open source
+  - Which are the most popular tools for the following protocols?
+    - sequence search
+    - multiple sequence alignment
+    - phylogenetic tree generation
+    - genome assembly
+  - Which websites are regularly used in bioinformatics?
+    - twitter
+    - biostar
+    - github/bitbucket/etc
+    - citeulike
+    - mendeley
+    - stackoverflow
+    - cross validated
+
+
+Topic: What is the distribution of research areas in bioinformatics?
+
+Data points:
+  - What is the distribution of research areas in bioinformatics?
+  - How does annual salary vary with research area?
+  - How does annual salary vary with work institution?
+  - How does research areas produce more publications?
+  - How does research areas result in more grants?
+  - How does research areas result in larger grants?
+  - How does research areas vary with teaching load?
+  - Do different genders have predispositions to different research areas?
+  - Which research areas are most satisfying?
