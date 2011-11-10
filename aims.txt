@@ -4,6 +4,7 @@ Specific data points:
   - How does annual salary vary at different career levels?
   - How does annual salary vary with location?
   - How does annual salary vary with gender?
+  - How does annual salary vary with age?
   - How does annual salary vary with number of children?
   - How does annual salary vary with work institution?
   - How does annual salary vary with years of experience?
@@ -23,20 +24,26 @@ Data points:
   - How does annual salary vary with number of publication?
   - How does annual salary vary with number of grants?
   - How does annual salary vary with weekly teaching load?
+  - How does annual salary vary with age?
+
   - How does weekly teaching load vary with number of publications?
   - How does weekly teaching load vary with h index?
   - How does weekly teaching load vary with number of grants?
-  - How does career progression vary with number of publications?
-  - How does career progression vary with h-index?
-  - How does career progression vary with number and size of grants?
-  - How does career progression vary with weekly teaching load?
-  - How does number of publications vary with educational background?
-  - How does number of grants vary with educational background?
-  - How does gender affect number of publications?
-  - How does gender affect number and size of grants?
-  - How does number of children affect publication output?
-  - How does number of children affect grant output?
 
+  - How does current position vary with age?
+  - How does current position vary with gender?
+  - How does current position vary with number of publications?
+  - How does current position vary with h-index?
+  - How does current position vary with number and size of grants?
+  - How does current position vary with weekly teaching load?
+
+  - How does number of publications vary with gender?
+  - How does number of publications vary with number of children?
+  - How does number of publications vary with educational background?
+
+  - How does number of grants vary with gender?
+  - How does number of grants vary with number of children?
+  - How does number of grants vary with educational background?
 
 
 Topic: How satisfying is a career in bioinformatics?
@@ -64,7 +71,7 @@ Data points:
   - How has programming language usage changed in the last three years?
   - How does programming language usage vary with length of career?
   - Which programming languages do publishing authors use?
-  - What is the distribtion of computer setups in bioinformatics?
+  - What is the distribution of computer setups in bioinformatics?
   - Which of the following software development practices are being used?
     - source code control
     - test driven development
@@ -82,7 +89,7 @@ Data points:
     - genome assembly
   - Which websites are regularly used in bioinformatics?
     - twitter
-    - biostar
+    - BioStar
     - github/bitbucket/etc
     - citeulike
     - mendeley
@@ -96,10 +103,9 @@ Topic: What is the distribution of research areas in bioinformatics?
 Data points:
   - What is the distribution of research areas in bioinformatics?
   - How does annual salary vary with research area?
-  - How does annual salary vary with work institution?
-  - How does research areas produce more publications?
-  - How does research areas result in more grants?
-  - How does research areas result in larger grants?
-  - How does research areas vary with teaching load?
+  - Which research areas produce more publications?
+  - Which research areas result in more grants?
+  - Which research areas result in larger grants?
+  - Which research areas vary with teaching load?
   - Do different genders have predispositions to different research areas?
   - Which research areas are most satisfying?
