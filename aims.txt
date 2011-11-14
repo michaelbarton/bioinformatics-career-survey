@@ -110,6 +110,7 @@ Data points:
   - Which research areas result in more grants?
   - Which research areas result in larger grants?
   - Which research areas vary with teaching load?
+  - How does research area vary with educational background?
   - Do different genders have predispositions to different research areas?
   - Which research areas are most satisfying?
   - Do programming languages vary with different research areas?
