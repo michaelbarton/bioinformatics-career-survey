@@ -27,13 +27,11 @@ Data points:
   - How does annual salary vary with age?
 
   - How does weekly teaching load vary with number of publications?
-  - How does weekly teaching load vary with h index?
   - How does weekly teaching load vary with number of grants?
 
   - How does current position vary with age?
   - How does current position vary with gender?
   - How does current position vary with number of publications?
-  - How does current position vary with h-index?
   - How does current position vary with number and size of grants?
   - How does current position vary with weekly teaching load?
 
