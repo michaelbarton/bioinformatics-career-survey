@@ -62,15 +62,18 @@ Data points:
 
 
 
-Topic: Which are the popular tools and practises in bioinformatics?
+Topic: Which are the most common equipment, tools and practices?
 
 Data points:
+  - What is the common computing equipment for a bioinformatician?
+    - monitor surface area
+    - CPU speed
+    - RAM size
   - Which is the most common programming language in bioinformatics?
   - How has programming language usage changed in the last three years?
   - How does programming language usage vary with length of career?
-  - Which programming languages do publishing authors use?
-  - What is the distribution of computer setups in bioinformatics?
-  - Which of the following software development practices are being used?
+  - Which programming languages correlate with number of publications?
+  - Which of the following software development practices are regularly used?
     - source code control
     - test driven development
     - continuous integration
