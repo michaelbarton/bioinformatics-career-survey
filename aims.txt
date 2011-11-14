@@ -93,6 +93,7 @@ Data points:
     - phylogenetic tree generation
     - genome assembly
   - Which websites are regularly used in bioinformatics?
+    - personal blog
     - twitter
     - BioStar
     - github/bitbucket/etc
