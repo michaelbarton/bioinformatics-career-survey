@@ -34,6 +34,7 @@ Data points:
   - How does current position vary with number of publications?
   - How does current position vary with number and size of grants?
   - How does current position vary with weekly teaching load?
+  - How does current position vary with educational background?
 
   - How does number of publications vary with gender?
   - How does number of publications vary with number of children?
@@ -50,6 +51,7 @@ Data points:
   - How does satisfaction vary at different career levels?
   - How does satisfaction vary with location?
   - How does satisfaction vary with work institution?
+  - How does satisfaction vary with educational background?
   - How does satisfaction vary with number of publication?
   - How does satisfaction vary with number of grants?
   - How does satisfaction vary with size of grants?
@@ -110,3 +112,4 @@ Data points:
   - Which research areas vary with teaching load?
   - Do different genders have predispositions to different research areas?
   - Which research areas are most satisfying?
+  - Do programming languages vary with different research areas?
