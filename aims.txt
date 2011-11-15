@@ -59,8 +59,8 @@ Data points:
   - How does satisfaction vary with location?
   - How does satisfaction vary with gender?
   - How does satisfaction vary with having children?
+  - How does satisfaction vary with length of time in bioinformatics?
   - How has satisfaction changed in the last three years?
-  - How long to people consider themselves staying in bioinformatics?
 
 
 
@@ -72,7 +72,6 @@ Data points:
     - CPU speed
     - RAM size
     - Operating System
-    - Admin privileges
     - Where you allow to select your own computing equipment?
     - Where you allow to select your OS?
   - Which is the most common programming language in bioinformatics?
@@ -105,7 +104,7 @@ Data points:
     - citeulike
     - mendeley
     - stackoverflow
-    - cross validated
+    - other stack exchange site
   - How often do bioinformaticians attend conferences and workshops?
   - How workshop/conference attendence vary with current position?
 
