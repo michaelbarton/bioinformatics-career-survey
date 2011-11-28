@@ -112,24 +112,90 @@ Your Job:
   - How many times a year do you attend external workshops and conferences?
 
   - What field of bioinformatics do you work in/research?
-    - Nucleic acids
-    - Sequence
-    - Structure
+    - Genome analysis:
+      - genome assembly
+      - genome and chromosome annotation
+      - gene finding
+      - alternative splicing
+      - comparative genomics
+    - Sequence analysis:
+      - developing software for sequence analysis
+      - developing databases for sequence analysis
+      - multiple sequence alignment
+      - sequence searches and clustering
+      - prediction of function and localisation
+      - identification of novel domains and motifs
+      - prediction of protein, RNA and DNA sequence features
     - Phylogenetics
-    - Microarrays
-    - Proteomics
-    - Literature and documentation
-    - Data handling
-    - Sequencing and mapping
-    - Classification
-    - Ontologies and nomenclature
-    - Proteins
-    - Pathways, networks and models
-    - Laboratory resources
-    - Informatics
-    - Organism
-    - Genomics
-    - Genotype and phenotype
+      - developing software for phylogenetics
+      - developing databases for phylogenetics
+      - phylogeny estimation
+      - phylogeny estimation methods
+      - simultaneous sequence alignment and phylogeny
+        estimation
+      - models of evolution
+      - statistical support of phylogenetic estimates
+      - coalescent theory
+      - methods for comparing alternative phylogenies
+      - testing/mapping character change along a phylogeny
+    - Structural Bioinformatics:
+      - developing databases for structural bioinformatics
+      - developing software for structural bioinformatics
+      - protein modelling
+      - methods for structure prediction and analysis
+      - methods for model validation and assessment
+      - methods for tools for docking
+      - protein design
+      - structure based function prediction
+    - Gene Expression:
+      - developing software for gene expression analysis
+      - developing databases for gene expression analysis
+      - microarray analysis
+      - RNAseq
+      - proteomics
+      - genome tiling
+      - SAGE
+      - MPSS
+      - mass spectrometry
+      - methods for analysis of gene expression;
+      - methods for analysis of regulatory networks
+      - integration of expression data
+      - expression-based annotation
+    - Genetics and Population Analysis:
+      - developing software for genetics
+      - developing databases for genetics
+      - population genetics
+      - segregation analysis
+      - linkage analysis
+      - association analysis
+      - map construction
+      - population simulation
+      - haplotyping
+      - linkage disequilibrium
+      - pedigree drawing
+      - marker discovery
+      - power calculation
+      - genotype calling
+    - Systems Biology:
+      - developing software for systems biology
+      - developing databases for systems biology
+      - whole cell systems
+      - protein interaction networks
+      - regulatory networks
+      - metabolic and signaling pathways
+    - Data and Text Mining:
+      - developing software for text mining
+      - developing software data mining
+      - developing databases for text mining
+      - developing databases for data mining
+      - predicting biological features based on extracted
+        information.
+    - Databases and Ontologies
+      - curated biological databases
+      - eScience
+      - web services
+      - database integration
+      - biologically-relevant ontologies
 
   - How much do you enjoy your current job:
     - 1
