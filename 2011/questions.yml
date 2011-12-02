@@ -37,7 +37,7 @@
     - Oceania, Micronesia
     - Oceania, Polynesia
 
-  - Which region of the world do you currently work in? 
+  - Which region of the world do you currently work in?
     - Africa, North
     - Africa, Eastern
     - Africa, Middle
@@ -241,7 +241,7 @@ Your working practices:
 
   - How important is open-sourcing your software?
     - 1..10
-  
+
   - What programming languages would you like to learn?
     - NOTE: enumerated list goes here
 
@@ -258,7 +258,7 @@ Your working practices:
   - Which computer systems do you regularly (weekly) use?
     - supercomputers (excluding cluster/cloud computing)
     - cluster computing
-    - clound/provisioning computing 
+    - clound/provisioning computing
 
   - Which website do you regularly (weekly) use?
      - personal blog
