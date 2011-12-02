@@ -6,22 +6,31 @@ Topic: What are the characteristics of the bioinformatics community?
   - What programming lanugages are commonly used?
   - How is the bioinformatics community distributed across the world?
   - How is the number of bioinformaticians distributed with career levels?
+  - What is the average bioinformatician salary?
+  - How happy is the average bioinformatician?
 
 
 
-Topic: What are the prospects for success in bioinformatics?
+Topic: What defines a successful career in bioinformatics? Assume We can define
+success in terms of three variables: salary, career progression, and
+satisfaction.
 
 Specific data points:
   - How does annual salary vary at different career levels?
-  - How does salary/career level vary with location?
-  - How does salary/career level vary with gender?
-  - How does salary/career level vary with age?
-  - How does salary/career level vary with number of children?
-  - How does salary/career level vary with work institution?
-  - How does salary/career level vary with years of experience?
-  - How does salary/career level vary with level of education?
-  - How does salary/career level vary with educational background?
-  - How much salary/career level be explained in terms of all these factors?
+  - How does success vary with location?
+  - How does success vary with gender?
+  - How does success vary with age?
+  - How does success vary with relationship status?
+  - How does success vary with number of children?
+  - How does success vary with work institution?
+  - How does success vary with years of experience?
+  - How does success vary with level of education?
+  - How does success vary with educational background?
+  - How does success vary with salary?
+  - How does success vary with career level?
+  - How does success vary with satisfaction?
+  - How has success changed in the last three years?
+  - How much can success be explained in terms of all these factors?
 
 
 
@@ -37,31 +46,13 @@ Data points:
   - How does weekly teaching load vary with number of grants?
 
   - How does number of publications vary with gender?
+  - How does number of publications vary with relationship status?
   - How does number of publications vary with number of children?
   - How does number of publications vary with educational background?
 
   - How does number of grants vary with gender?
   - How does number of grants vary with number of children?
   - How does number of grants vary with educational background?
-
-
-
-Topic: How satisfying is a career in bioinformatics?
-
-Data points:
-  - How does satisfaction vary at different career levels?
-  - How does satisfaction vary with location?
-  - How does satisfaction vary with work institution?
-  - How does satisfaction vary with educational background?
-  - How does satisfaction vary with number of publication?
-  - How does satisfaction vary with number of grants?
-  - How does satisfaction vary with size of grants?
-  - How does satisfaction vary with weekly teaching load?
-  - How does satisfaction vary with location?
-  - How does satisfaction vary with gender?
-  - How does satisfaction vary with having children?
-  - How does satisfaction vary with length of time in bioinformatics?
-  - How has satisfaction changed in the last three years?
 
 
 
