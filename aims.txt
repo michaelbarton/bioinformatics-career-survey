@@ -1,20 +1,27 @@
-Topic: What are the career prospects of a bioinformatics career?
+Topic: What are the characteristics of the bioinformatics community?
+  - What is the gender ratio?
+  - What is the age distribution?
+  - What is the distribution of marital and family status?
+  - What is the distribution of educational background?
+  - What programming lanugages are commonly used?
+  - How is the bioinformatics community distributed across the world?
+  - How is the number of bioinformaticians distributed with career levels?
+
+
+
+Topic: What are the prospects for success in bioinformatics?
 
 Specific data points:
   - How does annual salary vary at different career levels?
-  - How does annual salary vary with location?
-  - How does annual salary vary with gender?
-  - How does annual salary vary with age?
-  - How does annual salary vary with number of children?
-  - How does annual salary vary with work institution?
-  - How does annual salary vary with years of experience?
-  - How does annual salary vary with level of education?
-  - How does annual salary vary with educational background?
-  - Which areas of the world are bioinformaticians working in?
-  - How is years of experience tied to salary and progression?
-  - How does number of bioinformaticians decrease with career level?
-  - How does career progression vary with educational background?
-  - How many conferences and workshops can you expect to attend a year?
+  - How does salary/career level vary with location?
+  - How does salary/career level vary with gender?
+  - How does salary/career level vary with age?
+  - How does salary/career level vary with number of children?
+  - How does salary/career level vary with work institution?
+  - How does salary/career level vary with years of experience?
+  - How does salary/career level vary with level of education?
+  - How does salary/career level vary with educational background?
+  - How much salary/career level be explained in terms of all these factors?
 
 
 
@@ -29,13 +36,6 @@ Data points:
   - How does weekly teaching load vary with number of publications?
   - How does weekly teaching load vary with number of grants?
 
-  - How does current position vary with age?
-  - How does current position vary with gender?
-  - How does current position vary with number of publications?
-  - How does current position vary with number and size of grants?
-  - How does current position vary with weekly teaching load?
-  - How does current position vary with educational background?
-
   - How does number of publications vary with gender?
   - How does number of publications vary with number of children?
   - How does number of publications vary with educational background?
@@ -43,6 +43,7 @@ Data points:
   - How does number of grants vary with gender?
   - How does number of grants vary with number of children?
   - How does number of grants vary with educational background?
+
 
 
 Topic: How satisfying is a career in bioinformatics?
@@ -106,7 +107,7 @@ Data points:
     - stackoverflow
     - other stack exchange site
   - How often do bioinformaticians attend conferences and workshops?
-  - How workshop/conference attendence vary with current position?
+  - How many conferences and workshops can you expect to attend a year?
 
 
 
