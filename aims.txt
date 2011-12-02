@@ -8,6 +8,7 @@ Topic: What are the characteristics of the bioinformatics community?
   - How is the number of bioinformaticians distributed with career levels?
   - What is the average bioinformatician salary?
   - How happy is the average bioinformatician?
+  - What is the distribution of bioinformaticians who also do wet work?
 
 
 
