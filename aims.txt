@@ -13,8 +13,11 @@ Topic: What are the characteristics of the bioinformatics community?
 
 
 Topic: What defines a successful career in bioinformatics? Assume We can define
-success in terms of three variables: salary, career progression, and
-satisfaction.
+success in terms of the following:
+  - salary
+  - satisfaction
+  - how successful respondent feels
+  - opportunity to learn new skills
 
 Specific data points:
   - How does annual salary vary at different career levels?
