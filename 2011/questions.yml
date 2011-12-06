@@ -4,11 +4,11 @@
     - Yes
     - No
 
-  - Your gender?
+  - What is your gender?
     - Male
     - Female
 
-  - Your age?
+  - What is your age?
 
   - Are you married or living with a partner?
 
@@ -37,7 +37,7 @@
     - Oceania, Micronesia
     - Oceania, Polynesia
 
-  - What field did you do the majority of your undergraduate degree in?
+  - Which field did you do the majority of your undergraduate degree in?
     - Biology
     - Physics
     - Chemistry
