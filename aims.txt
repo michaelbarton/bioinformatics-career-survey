@@ -20,7 +20,7 @@ success in terms of the following:
   - opportunity to learn new skills
 
 Specific data points:
-  - How does annual salary vary at different career levels?
+  - How does success vary with career levels?
   - How does success vary with location?
   - How does success vary with gender?
   - How does success vary with age?
