@@ -9,6 +9,7 @@ Topic: What are the characteristics of the bioinformatics community?
   - What is the average bioinformatician salary?
   - How happy is the average bioinformatician?
   - How often are bioinformaticians required to do wet work?
+  - How hard are bioinformaticians working?
 
 
 
@@ -19,20 +20,23 @@ success in terms of the following:
   - how successful respondent feels
   - opportunity to learn new skills
 
-Specific data points:
-  - How does success vary with career levels?
-  - How does success vary with location?
-  - How does success vary with gender?
-  - How does success vary with age?
-  - How does success vary with relationship status?
-  - How does success vary with number of children?
-  - How does success vary with work institution?
-  - How does success vary with years of experience?
-  - How does success vary with level of education?
-  - How does success vary with educational background?
-  - How does success vary with salary?
-  - How does success vary with career level?
-  - How does success vary with satisfaction?
+  - How does success vary following factors:
+    - career level
+    - publications
+    - grants
+    - location
+    - gender
+    - age
+    - relationship status
+    - number of children
+    - work institution
+    - weekly hours worked
+    - years of experience
+    - level of education
+    - educational background
+    - salary
+    - career level
+    - satisfaction
   - How has success changed in the last three years?
   - How much can success be explained in terms of all these factors?
 
