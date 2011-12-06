@@ -1,14 +1,14 @@
 Topic: What are the characteristics of the bioinformatics community?
-  - What is the gender ratio?
+  - What is the male to female ratio?
   - What is the age distribution?
   - What is the distribution of marital and family status?
   - What is the distribution of educational background?
   - What programming lanugages are commonly used?
   - How is the bioinformatics community distributed across the world?
-  - How is the number of bioinformaticians distributed with career levels?
+  - How is the number of bioinformaticians distributed across career levels?
   - What is the average bioinformatician salary?
   - How happy is the average bioinformatician?
-  - What is the distribution of bioinformaticians who also do wet work?
+  - How often are bioinformaticians required to do wet work?
 
 
 
