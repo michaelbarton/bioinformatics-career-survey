@@ -98,75 +98,75 @@ Your Job:
     - 9
     - 10 the only thing I do
 
-    - What field of bioinformatics do you work in/research?
-      - Biological data resources
-        - Laboratory resources
-          - Microarrays
-          - Cell culture resources
-          - Medical informatics resources
-        - Biological science resources
-          - Cell biology resources
-          - Developmental biology resources
-            - Embryology resources
-          - Anatomy resources
-      - Nucleic acid analysis
-        - Nucleic acid design
-      - Protein analysis
-        - Protein function analysis
-          - Protein function prediction
-      - Sequence analysis
-        - Sequence composition analysis
-        - Sequence comparison
-          - Sequence clustering
-        - Sequence feature detection
-        - Sequence classification
-          - Sequence motifs
-          - Sequence profiles and HMMs
-        - Primer or probe design
-      - Structure analysis
-        - Structure prediction
-          - Ab initio structure prediction
-        - Structure comparison
-          - Structural (3D) profiles
-          - Structural clustering
-        - Structure determination
-      - Phylogenetics
-        - Phylogeny reconstruction
-      - Proteomics
-      - Data handling
-        - Data search and retrieval
-        - Data visualisation
-        - Biostatistics
-        - Data acquisition and deposition
-        - Workflows
-        - Data processing and validation
-        - Data types and objects
-      - Chemoinformatics
-        - Pharmacoinformatics
-          - Drug design
-        - Toxicoinformatics
-      - Transcriptomics
-      - Literature and reference
-        - Documentation and help
-        - Literature analysis
-          - Text mining
-      - Ontologies, nomenclature and classification
-        - Ontologies
-        - Annotation
-        - Nomenclature
-        - Taxonomy
-      - Genetics
-        - Quantitative genetics
-        - Population genetics
-      - Systems biology
-        - Biological system modelling
-        - Network or pathway analysis
-      - Ecoinformatics
-        - Biodiversity
-      - Genomics
-        - Functional genomics
-        - Comparative genomics
-      - Immunoinformatics
+  - What field of bioinformatics do you work in/research?
+    - Biological data resources
+      - Laboratory resources
+        - Microarrays
+        - Cell culture resources
+        - Medical informatics resources
+      - Biological science resources
+        - Cell biology resources
+        - Developmental biology resources
+          - Embryology resources
+        - Anatomy resources
+    - Nucleic acid analysis
+      - Nucleic acid design
+    - Protein analysis
+      - Protein function analysis
+        - Protein function prediction
+    - Sequence analysis
+      - Sequence composition analysis
+      - Sequence comparison
+        - Sequence clustering
+      - Sequence feature detection
+      - Sequence classification
+        - Sequence motifs
+        - Sequence profiles and HMMs
+      - Primer or probe design
+    - Structure analysis
+      - Structure prediction
+        - Ab initio structure prediction
+      - Structure comparison
+        - Structural (3D) profiles
+        - Structural clustering
+      - Structure determination
+    - Phylogenetics
+      - Phylogeny reconstruction
+    - Proteomics
+    - Data handling
+      - Data search and retrieval
+      - Data visualisation
+      - Biostatistics
+      - Data acquisition and deposition
+      - Workflows
+      - Data processing and validation
+      - Data types and objects
+    - Chemoinformatics
+      - Pharmacoinformatics
+        - Drug design
+      - Toxicoinformatics
+    - Transcriptomics
+    - Literature and reference
+      - Documentation and help
+      - Literature analysis
+        - Text mining
+    - Ontologies, nomenclature and classification
+      - Ontologies
+      - Annotation
+      - Nomenclature
+      - Taxonomy
+    - Genetics
+      - Quantitative genetics
+      - Population genetics
+    - Systems biology
+      - Biological system modelling
+      - Network or pathway analysis
+    - Ecoinformatics
+      - Biodiversity
+    - Genomics
+      - Functional genomics
+      - Comparative genomics
+    - Immunoinformatics
 
   - How satisfied are you with your job:
     - 1
