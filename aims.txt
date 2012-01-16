@@ -75,7 +75,6 @@ Data points:
     - Where you allow to select your own computing equipment?
     - Where you allow to select your OS?
   - Which is the most common programming language in bioinformatics?
-  - Which is the most common programming language in bioinformatics?
   - How has programming language usage changed in the last three years?
   - How does programming language usage vary with length of career?
   - Which programming languages correlate with number of publications?
