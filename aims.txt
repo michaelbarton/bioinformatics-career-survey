@@ -67,13 +67,6 @@ Data points:
 Topic: Which are the most common equipment, tools and practices?
 
 Data points:
-  - What is the common computing equipment for a bioinformatician?
-    - monitor surface area
-    - CPU speed
-    - RAM size
-    - Operating System
-    - Where you allow to select your own computing equipment?
-    - Where you allow to select your OS?
   - Which is the most common programming language in bioinformatics?
   - How has programming language usage changed in the last three years?
   - How does programming language usage vary with length of career?
