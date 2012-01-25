@@ -197,15 +197,15 @@ Your working practices:
     - the command line
     - source control
     - test driven development
-    - continuous integration servers
+    - continuous integration server
     - collaborative wikis
     - issue tracking
     - code reviews
 
   - Which computer systems do you regularly (weekly) use?
-    - supercomputers (excluding cluster/cloud computing)
-    - cluster computing
-    - clound/provisioning computing
+    - supercomputers
+    - computer cluster
+    - cloud/provisioning service
 
   - Which website do you regularly (weekly) use?
      - personal blog
