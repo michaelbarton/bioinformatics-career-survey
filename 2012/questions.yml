@@ -126,17 +126,16 @@ Your Job:
     - Other
 
   - How much is your time is split between bioinformatics and wet-lab work?
-    - 100%/0% - Purely computational work
-    - 90%/10%
-    - 80%/20%
-    - 70%/30%
-    - 60%/40%
-    - 50%/50%
-    - 40%/60%
-    - 30%/70%
-    - 20%/80%
-    - 10%/90%
-    - 0%/100% - Purely bench work
+    - 0 - All bench
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9 - All computational
 
   - How many hours do you work, on average, each week?
 
@@ -146,6 +145,7 @@ Your Job:
       REPLACE WITH EDAM CATEGORIES
 
   - How satisfied are you with your job:
+    - 0 - Extremely Unsatisfied
     - 1
     - 2
     - 3
@@ -154,10 +154,10 @@ Your Job:
     - 6
     - 7
     - 8
-    - 9
-    - 10
+    - 9 - Extremely Satisfied
 
   - How succesful do you consider yourself in your career so far?
+    - 0 - Extremely Unsuccessful
     - 1
     - 2
     - 3
@@ -166,8 +166,7 @@ Your Job:
     - 6
     - 7
     - 8
-    - 9
-    - 10
+    - 9 - Extremely Successful
 
 Grants and Publications:
 
