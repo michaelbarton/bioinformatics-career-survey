@@ -34,7 +34,7 @@ blog. The twitter tag is [#bioinfsurvey][tag] for discussions.
 [4]: http://genomebiology.com/2008/9/12/114
 [biostar]: http://biostar.stackexchange.com/questions/12663
 [aims]: http://github.com/michaelbarton/bioinformatics-career-survey/blob/develop/aims.txt
-[questions]: http://github.com/michaelbarton/bioinformatics-career-survey/blob/develop/2011/questions.yml
+[questions]: http://github.com/michaelbarton/bioinformatics-career-survey/blob/develop/2012/questions.yml
 [list]: mailto:bioinfsurvey@librelist.com
 [tag]: http://twitter.com/#!/search?q=%23bioinfsurvey
 
