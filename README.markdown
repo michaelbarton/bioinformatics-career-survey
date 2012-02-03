@@ -2,12 +2,13 @@
 
 ## About
 
-This project aims to understand the field of bioinformatics by surveying the
-people whom work in it. The survey was [first collected in 2008][2008] and has
-since been used in discussions about bioinformatics careers (See [1][], [2][],
-[3][], [4][]).
+This survey aims to understand the field of bioinformatics by surveying the
+people whom work in it. Once collected the data will be made available to the 
+community to analyse. All questions in the survey are optional.
 
-A new iteration of the survey was started by [Pierre Lindenbaum on
+The survey was [first collected in 2008][2008] and has since been used in 
+discussions about bioinformatics careers (See [1][], [2][],
+[3][], [4][]). A new iteration of the survey was started by [Pierre Lindenbaum on
 biostar][biostar]. The concrete outcomes for this survey are outlined in
 [aims.txt][aims]. The questions that will be asked are listed in
 [questions.yml][questions].
