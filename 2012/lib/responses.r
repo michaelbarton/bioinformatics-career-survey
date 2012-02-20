@@ -1,4 +1,4 @@
-country.data <- function(){
+completions <- function(){
   library(rworldmap)
   data(countryExData)
 

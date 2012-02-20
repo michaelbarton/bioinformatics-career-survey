@@ -9,7 +9,7 @@ source('lib/responses.r')
 n.categories <- 5
 
 intervals <- classIntervals(
-  country.data()[["Unique.Pageviews"]],
+  completions()[["Unique.Pageviews"]],
   n     = n.categories,
   style = "jenks")
 
@@ -19,7 +19,7 @@ par(mai = c(0, 0, 0.2, 0), xaxs = "i", yaxs = "i")
 
 mapCountryData(
   joinCountryData2Map(
-    country.data(),
+    completions(),
     joinCode         = "ISO3",
     mapResolution    = "coarse",
     nameJoinColumn   = "ISO3V10"),

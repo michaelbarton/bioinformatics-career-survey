@@ -6,7 +6,7 @@ source('lib/responses.r')
 png('total_responses.png',width = 650)
 
 p <- ggplot(
-  within(country.data(),{
+  within(completions(),{
       Country <- factor(Country, levels=(Country[order(Unique.Pageviews)]))}),
   aes(x = Country, y = Unique.Pageviews, fill = EPI_regions))
 p <- p + geom_bar()
