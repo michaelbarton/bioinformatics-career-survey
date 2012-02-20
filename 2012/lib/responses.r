@@ -3,12 +3,12 @@ country.data <- function(){
   data(countryExData)
 
   responses <- read.csv('data/analytics.csv', stringsAsFactors = FALSE)
-  names(responses)[1] <- "Country"
+  names(responses)[2] <- "Country"
 
   subset(
     merge(
       responses,
       countryExData[c('Country','ISO3V10','EPI_regions')],
       by = "Country"),
-    Visits >= 5)
+    Unique.Pageviews >= 5)
 }
