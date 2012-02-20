@@ -4,20 +4,12 @@ library(rworldmap)
 library(classInt)
 library(RColorBrewer)
 
-data(countryExData)
-
-responses <- read.csv('data/analytics.csv')
-names(responses)[1] <- "Country"
-
-country.data <-
-  subset(
-    merge(responses, countryExData[c('Country','ISO3V10')], by = "Country"),
-    Visits >= 5)
+source('lib/responses.r')
 
 n.categories <- 5
 
 intervals <- classIntervals(
-  country.data[["Visits"]],
+  country.data()[["Visits"]],
   n     = n.categories,
   style = "jenks")
 
@@ -27,7 +19,7 @@ par(mai = c(0, 0, 0.2, 0), xaxs = "i", yaxs = "i")
 
 mapCountryData(
   joinCountryData2Map(
-    country.data,
+    country.data(),
     joinCode         = "ISO3",
     mapResolution    = "coarse",
     nameJoinColumn   = "ISO3V10"),
