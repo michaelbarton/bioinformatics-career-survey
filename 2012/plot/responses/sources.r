@@ -2,8 +2,7 @@
 
 library(ggplot2)
 source('lib/responses.r')
-
-png('referrals.png',width = 650)
+source('lib/generate_plot_file.r')
 
 p <- ggplot(
   within(referrals(),{
@@ -11,6 +10,7 @@ p <- ggplot(
   aes(x = Source, y = Unique.Pageviews))
 p <- p + geom_bar()
 p <- p + coord_flip()
-p <- p + scale_y_continuous('Visitors to the Completion Page')
+p <- p + scale_y_continuous('\nVisitors to the Completion Page')
 p <- p + theme_bw()
-p
+
+generate_plot_file(p,'response_sources.png')

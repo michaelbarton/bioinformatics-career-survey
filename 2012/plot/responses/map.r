@@ -13,11 +13,11 @@ intervals <- classIntervals(
   n     = n.categories,
   style = "jenks")
 
-png('responses_map.png',width = 900)
+png('responses_map.png', width = 640, res=100)
 
 par(mai = c(0, 0, 0.2, 0), xaxs = "i", yaxs = "i")
 
-mapCountryData(
+p <- mapCountryData(
   joinCountryData2Map(
     completions(),
     joinCode         = "ISO3",
