@@ -29,6 +29,6 @@ p <- p + geom_point()
 p <- p + theme_bw()
 p <- p + scale_x_continuous("Days")
 p <- p + scale_y_continuous("Total responses")
-p <- p + scale_colour_manual(name = "Year",values = c("red","blue"))
+p <- p + scale_colour_brewer("Dark2", name = "Year")
 
 generate_plot_file(p,'responses_by_time.png')
