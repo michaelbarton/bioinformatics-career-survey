@@ -1,5 +1,7 @@
 survey.2012 <- function(){
-  survey('data/survey.csv')
+  s <- survey('data/survey.csv')
+  names(s)[3] <- 'gender'
+  s
 }
 
 survey.2008 <- function(){
