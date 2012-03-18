@@ -3,30 +3,28 @@
 ## About
 
 This survey aims to understand the field of bioinformatics by surveying the
-people whom work in it. Once collected the data will be made available to the 
-community to analyse. All questions in the survey are optional.
+people whom work in it. All questionnaire data is available under the 
+respective licenses for each dataset. More details on this survey can be found 
+at [http://bioinfsurvey.org](http://bioinfsurvey.org/).
 
 The survey was [first collected in 2008][2008] and has since been used in 
 discussions about bioinformatics careers (See [1][], [2][],
-[3][], [4][]). A new iteration of the survey was started by [Pierre Lindenbaum on
+[3][], [4][]). A new iteration of the survey was collected in 2012 following a 
+discussion started by [Pierre Lindenbaum on
 biostar][biostar]. The concrete outcomes for this survey are outlined in
-[aims.txt][aims]. The questions that will be asked are listed in
+[aims.txt][aims]. Questions asked and the possible answers are listed in
 [questions.yml][questions].
 
-## Contributing
+Forks and suggestions are welcome.
 
-The are several ways you can get involved in this project. You can send
-thoughts or suggestions to the [bioinfsurvey mailing list][list]. You can also
-fork and make changes to this project via github. Finally this survey will only
-be as successful as the number of survey respondents we receive. So once we
-begin collecting data you can help by sharing the survey on twitter or your
-blog. The twitter tag is [#bioinfsurvey][tag] for discussions.
+[Michael Barton][mb_web] ([@michaelbarton][mb_twit])
 
 ## Contributors
 
-* Michael Barton [twitter][mb_twit], [website][mb_web]
 * Pierre Lindenbaum [twitter][pl_twit], [website][pl_web]
 * Rob Syme [twitter][rs_twit], [website][rs_web]
+* Larry Parnell [twitter][lp_twit], [website][lp_web]
+
 
 [2008]: http://openwetware.org/wiki/Biogang:Projects/Bioinformatics_Career_Survey_2008
 [1]: http://biostar.stackexchange.com/questions/34
@@ -42,7 +40,9 @@ blog. The twitter tag is [#bioinfsurvey][tag] for discussions.
 [mb_twit]: http://twitter.com/#!/michaelbarton
 [pl_twit]: http://twitter.com/#!/yokofakun
 [rs_twit]: http://twitter.com/#!/robsyme
+[lp_twit]: http://twitter.com/#!/larry_parnell
 
 [mb_web]: http://www.michaelbarton.me.uk/
 [pl_web]: http://plindenbaum.blogspot.com/
 [rs_web]: http://robsyme.com/
+[lp_web]: http://varigenome.blogspot.com/

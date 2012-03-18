@@ -1,0 +1,34 @@
+key,question
+time,Timestamp
+previous,Did you participate in the 2008 bioinformatics survey?,
+gender,What is your gender?
+year,Which year were you born?
+married,Are you married or living with a partner?
+children,How many dependent children do you have?
+region,Which region of the world do you live in?
+degree,Which field did you do the majority of your undergraduate degree in?,
+education,What is your highest level of education?,
+position,What is your current position?,
+salary,What is your annual pre-tax gross salary in US dollars?
+sector,Which sector do you work in?
+research1,Choose an area bioinformatics which best describes your research.
+research2,Choose a second area bioinformatics which best describes your research.
+research3,Choose a third area bioinformatics which best describes your research.
+time,How much of your time is split between bioinformatics and web-lab work
+hours,"How many hours do you work, on average, each week?"
+conferences,"How many times a year, on average over the last five years, do you attend external workshops and conferences?"
+satisfaction,How satisfied are you with your job?,
+success,How successful do you consider yourself in your career so far?
+publications,How many published papers are you an author on?
+first,How many published papers are you FIRST author on?
+corresponding,How many published papers are you CORRESPONDING author on?
+open,How important to you is publishing in open access journals?
+grants,"How many grants, as principle investigator, have you received?"
+size,"What is the largest grant you, as principle investigator, have received (US Dollars)?"
+languages,Which programming languages do you use daily?
+source,How often do you make your SOFTWARE open-source and available online?
+data,How often do you make your DATA open and available online?
+practices,Which software practices do you regularly (weekly) use?
+systems,Which computer systems do you regularly (weekly) use?
+websites,Which websites do you regularly (weekly) create content on?
+advance,What is the one thing that you think could advance the field of bioinformatics in the next year?
