@@ -1,0 +1,319 @@
+About you:
+
+  - Did you participate in the 2008 career survey?
+    - Yes
+    - No
+
+  - What is your gender?
+    - Male
+    - Female
+
+  - Which year were you born?
+    - list of years for the last seventy
+
+  - Are you married or living with a partner?
+
+  - How many dependent children live with you?
+    - 0
+    - 1
+    - 2
+    - 3
+    - 3 +
+
+  - Which region of the world do you currently work in?
+    - Africa, North
+    - Africa, Eastern
+    - Africa, Middle
+    - Africa, Northern
+    - Africa, Southern
+    - Africa, Western
+    - America, Northern
+    - America, Central
+    - America, Caribbean
+    - America, South
+    - Asia, Southern
+    - Asia, Southern-Eastern
+    - Asia, Western
+    - Europe, Eastern
+    - Europe, Northern
+    - Europe, Southern
+    - Europe, Western
+    - Oceania, Australia and New Zealand
+    - Oceania, Melanesia
+    - Oceania, Micronesia
+    - Oceania, Polynesia
+
+  - Which field did you do the majority of your undergraduate degree in?
+    - Biology
+    - Physics
+    - Chemistry
+    - Mathematics
+    - Statistics
+    - Computing Science
+    - Geology
+    - Liberal Arts
+
+  - What is your highest level of education?
+    - School
+    - Undergraduate
+    - Masters
+    - PhD
+
+Your Job:
+
+  - Choose an area bioinformatics which best describes your research. (THREE TIMES)
+    - Laboratory resources
+    - Biological science resources
+    - Nucleic acid design
+    - Protein function analysis
+    - Sequence composition analysis
+    - Sequence comparison
+    - Sequence feature detection
+    - Sequence classification
+    - Sequence annotation
+    - Primer or probe design
+    - Sequence searching
+    - Sequence alignment
+    - Structure prediction
+    - Structure comparison
+    - Structure determination
+    - Phylogeny reconstruction
+    - Molecular evolution
+    - Comparative phylogenetics
+    - Proteomics
+    - Drug Design
+    - Metabolomics
+    - Data search and retrieval
+    - Data visualisation
+    - Biostatistics
+    - Data acquisition and deposition
+    - Workflows
+    - Data processing and validation
+    - Data types and objects
+    - Database building
+    - Pharmacoinformatics
+    - Toxicoinformatics
+    - Expression analysis
+    - Transcriptome sequencing
+    - Microarray analysis
+    - Documentation and help
+    - Literature analysis
+    - Ontologies
+    - Annotation
+    - Nomenclature
+    - Taxonomy
+    - Quantitative genetics
+    - Population genetics
+    - Biological system modelling
+    - Network or pathway analysis
+    - Biodiversity
+    - Functional genomics
+    - Comparative genomics
+    - Meta/Genome assembly
+
+  - What is your current position?
+     - Under-graduate student
+     - Staff Technician
+     - Masters Student
+     - PhD Student
+     - Programmer / Software Developer
+     - Post Doctoral Scientist (Researcher)
+     - Post Doctoral Scientist (Staff)
+     - Principal Investigator / Lab Head / Management
+     - Senior Principal Investigator / Professor / Senior Management
+
+  - What is your annual pre-tax gross salary in dollars?
+    - 0
+    - 1 - 4,999
+    - 5,000 - 9,999
+    - 10,000 - 14,999
+    - 15,000 - 19,999
+    - 20,000 - 24,999
+    - 25,000 - 29,999
+    - 30,000 - 34,999
+    - 35,000 - 39,999
+    - 40,000 - 44,999
+    - 45,000 - 49,999
+    - 50,000 - 54,999
+    - 55,000 - 59,999
+    - 60,000 - 64,999
+    - 65,000 - 69,999
+    - 70,000 - 74,999
+    - 75,000 - 79,999
+    - 80,000 - 84,999
+    - 85,000 - 89,999
+    - 90,000 - 94,999
+    - 95,000 - 99,999
+    - 100,000 - 104,999
+    - 105,000 - 109,999
+    - 110,000 - 114,999
+    - 115,000 - 119,999
+    - 120,000 - 124,999
+    - 125,000 - 129,999
+    - 130,000 - 134,999
+    - 135,000 - 139,999
+    - 140,000 - 144,999
+    - 145,000 - 149,999
+    - 150,000 - 154,999
+    - 155,000 - 159,999
+    - 160,000 - 164,999
+    - 165,000 - 169,999
+    - 170,000 - 174,999
+    - 175,000 - 179,999
+    - 180,000 - 184,999
+    - 185,000 - 189,999
+    - 190,000 - 194,999
+    - 195,000 - 199,999
+    - 200,000 - 204,999
+    - 205,000 - 209,999
+    - 210,000 - 214,999
+    - 215,000 - 219,999
+    - 220,000 - 224,999
+    - 225,000 - 229,999
+    - 230,000 - 234,999
+    - 235,000 - 239,999
+    - 240,000 - 244,999
+    - 245,000 - 249,999
+    - 250,000 +
+
+  - Which sector do you work in?
+    - Academia
+    - Industry - Pharma
+    - Industry - Other
+    - Government
+    - Freelance / Consultancy
+    - Other
+
+  - How much is your time is split between bioinformatics and wet-lab work?
+    - 0 - All bench
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9 - All computational
+
+  - How many hours do you work, on average, each week?
+    - list of hours up to 100
+
+  - How many times a year do you attend external workshops and conferences?
+    - list up to 25
+
+  - How satisfied are you with your job:
+    - 0 - Extremely Unsatisfied
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9 - Extremely Satisfied
+
+  - How successful do you consider yourself in your career so far?
+    - 0 - Extremely Unsuccessful
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9 - Extremely Successful
+
+Grants and Publications:
+
+  - How many published papers are you an author on?
+
+  - How many published papers are you FIRST author on?
+
+  - How many published papers are you CORRESPONDING author on?
+
+  - How important to you is publishing in open-access journals?
+
+  - How many grants, as principal investigator, have you received?
+
+  - What is the largest grant you, as principal investigator, have received (US Dollars)?
+    - 0
+    - 1000
+    - 10,000
+    - 100,000
+    - 1,000,000
+    - 10,000,000
+    - 10,000,000
+
+Your working practices:
+
+  - What programming languages do you use daily?
+    - C
+    - C#
+    - C++
+    - Lisp
+    - Erlang
+    - Haskell
+    - Java
+    - JavaScript
+    - Lua
+    - Objective-C
+    - Perl
+    - PHP
+    - Python
+    - Ruby
+    - Scala
+    - Scheme
+    - Assembly
+    - Clojure
+    - CoffeeScript
+    - D
+    - FORTRAN
+    - Go
+    - Matlab
+    - OCaml
+    - Prolog
+    - R
+    - Smalltalk
+    - Tcl
+    - Visual Basic
+    - Shell Scripting Languages (e.g. bash/zsh/tcsh)
+    - Other
+
+  - How often do you make your software open-source and available online?
+    - 1..10
+
+  - How often do you make your data open and available online?
+    - 1..10
+
+  - Which software practices do you regularly (weekly) use?
+    - regular backups
+    - the command line
+    - source code control
+    - test driven development
+    - continuous integration server
+    - collaborative wikis
+    - issue tracking
+    - code reviews
+
+  - Which computer systems do you regularly (weekly) use?
+    - supercomputers
+    - computer cluster
+    - cloud/provisioning service
+
+  - Which website do you regularly (weekly) create content on?
+    - Ask questions on differing time scales (daily/weekly/monthl.yearly)
+      - personal blog
+      - twitter.com
+      - stackoverflow.com
+      - biostar.stackexchange.com
+      - *.stackexchange.com
+      - seqanswers.com
+      - citeulike.org
+      - mendeley.com
+      - github/bitbucket/etc. code hosting site
+
+What is the one thing that you think could advance the field of bioinformatics in the next year?
+  - open text field question

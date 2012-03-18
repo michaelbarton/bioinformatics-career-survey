@@ -1,0 +1,117 @@
+Topic: What are the characteristics of the bioinformatics community?
+  - What is the male to female ratio?
+  - What is the age distribution?
+  - What is the distribution of marital and family status?
+  - What is the distribution of educational background?
+  - What programming lanugages are commonly used?
+  - How is the bioinformatics community distributed across the world?
+  - How is the number of bioinformaticians distributed across career levels?
+  - What is the average bioinformatician salary?
+  - How happy is the average bioinformatician?
+  - How often are bioinformaticians required to do wet work?
+  - How hard are bioinformaticians working?
+
+
+
+Topic: What defines a successful career in bioinformatics? Assume We can define
+success in terms of the following:
+  - salary
+  - satisfaction
+  - how successful respondent feels
+  - opportunity to learn new skills
+
+  - How does success vary following factors:
+    - career level
+    - publications
+    - grants
+    - location
+    - gender
+    - age
+    - relationship status
+    - number of children
+    - work institution
+    - weekly hours worked
+    - years of experience
+    - level of education
+    - educational background
+    - salary
+    - career level
+    - satisfaction
+  - How has success changed in the last three years?
+  - How much can success be explained in terms of all these factors?
+
+
+
+Topic: How important are publications, grants and teaching load?
+
+Data points:
+  - How does annual salary vary with number of publication?
+  - How does annual salary vary with number of grants?
+  - How does annual salary vary with weekly teaching load?
+  - How does annual salary vary with age?
+
+  - How does weekly teaching load vary with number of publications?
+  - How does weekly teaching load vary with number of grants?
+
+  - How does number of publications vary with gender?
+  - How does number of publications vary with relationship status?
+  - How does number of publications vary with number of children?
+  - How does number of publications vary with educational background?
+
+  - How does number of grants vary with gender?
+  - How does number of grants vary with number of children?
+  - How does number of grants vary with educational background?
+
+
+
+Topic: Which are the most common equipment, tools and practices?
+
+Data points:
+  - Which is the most common programming language in bioinformatics?
+  - How has programming language usage changed in the last three years?
+  - How does programming language usage vary with length of career?
+  - Which programming languages correlate with number of publications?
+  - Which of the following methods and practices are regularly used?
+    - source code control
+    - test driven development
+    - continuous integration
+    - command line
+    - collaborative wikis
+    - issue tracking
+    - code reviews
+    - releasing code as open source
+    - mutlicore CPU computing
+    - cluster computing
+    - cloud computing
+  - Which are the most popular tools for the following protocols?
+    - sequence search
+    - multiple sequence alignment
+    - phylogenetic tree generation
+    - genome assembly
+  - Which websites are regularly used in bioinformatics?
+    - personal blog
+    - twitter
+    - BioStar
+    - github/bitbucket/etc
+    - citeulike
+    - mendeley
+    - stackoverflow
+    - other stack exchange site
+  - How often do bioinformaticians attend conferences and workshops?
+  - How many conferences and workshops can you expect to attend a year?
+
+
+
+Topic: What is the distribution of research areas in bioinformatics?
+
+Data points:
+  - What is the distribution of research areas in bioinformatics?
+  - How does annual salary vary with research area?
+  - Which research areas produce more publications?
+  - Which research areas result in more grants?
+  - Which research areas result in larger grants?
+  - Which research areas vary with teaching load?
+  - How does research area vary with educational background?
+  - Do different genders have predispositions to different research areas?
+  - Which research areas are most satisfying?
+  - Do programming languages vary with different research areas?
