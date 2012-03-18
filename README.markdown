@@ -2,10 +2,11 @@
 
 ## About
 
-This survey aims to understand the field of bioinformatics by surveying the
-people whom work in it. All questionnaire data is available under the 
-respective licenses for each dataset. More details on this survey can be found 
-at [http://bioinfsurvey.org](http://bioinfsurvey.org/).
+This project aims to understand the field of bioinformatics by surveying the
+people whom work in it. Questionnaire data can be found in the directory 
+corresponding to the year collected. Each data is available under the 
+respective licenses. More details and analysis of the th survey can be found at 
+[http://bioinfsurvey.org](http://bioinfsurvey.org/).
 
 The survey was [first collected in 2008][2008] and has since been used in 
 discussions about bioinformatics careers (See [1][], [2][],
